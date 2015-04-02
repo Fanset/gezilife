@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	var year=1970;
+	var year=1950;
 	var month=0;
 	var day=0;
 	var innerHtml;
